@@ -76,7 +76,7 @@
  */
 metadata {
 	definition (
-		name: "GoControl Contact Sensor - Unused", 
+		name: "GoControl Contact Sensor", 
 		namespace: "krlaframboise", 
 		author: "Kevin LaFramboise"
 	) {
